@@ -59,6 +59,7 @@ Por ejemplo, guardemos en una variable un mensaje si un número es par o impar.
 >esPar(2) // "Es par" <br>
 >esPar(3) // "No es par" <br> 
 
+-----------------------------------------------------------------
 **Ejercicio de condicionales**
 
 Crea el juego de piedra, papel o tijera. Te dejo una pequeña ayuda para este reto:
