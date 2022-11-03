@@ -54,17 +54,17 @@ La palabra reservada typeof permite identificar el tipo de dato de un valor en J
 
 Ingresa a la consola del navegador, ejecuta cada línea del siguiente ejemplo y observa cuál es la respuesta.
 
->// Tipos de datos primitivos
->typeof 5  // 'number'
->typeof "hola" // 'string'
->typeof true  // 'boolean'
->typeof null  // 'object'
->typeof undefined // 'undefined'
->
->// Tipos de datos de objeto
->typeof console.log  // 'function'
->typeof {tipo: "objeto"} // 'object'
->typeof [1,2,3,4]  // 'object'
+>// Tipos de datos primitivos <br>
+>typeof 5  // 'number' <br>
+>typeof "hola" // 'string' <br>
+>typeof true  // 'boolean' <br>
+>typeof null  // 'object' <br>
+>typeof undefined // 'undefined' <br>
+> <br>
+>// Tipos de datos de objeto <br>
+>typeof console.log  // 'function' <br>
+>typeof {tipo: "objeto"} // 'object' <br>
+>typeof [1,2,3,4]  // 'object' <br>
 
 ----------------------------------------------------------------
 **Lecturas recomendadas**
