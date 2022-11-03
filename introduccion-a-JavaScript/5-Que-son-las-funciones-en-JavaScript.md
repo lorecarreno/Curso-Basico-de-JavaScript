@@ -92,7 +92,6 @@ Las funciones expresivas o anónimas consisten en guardar la función en una var
 **Clases relacionadas**
 
 [Qué es un objeto en JavaScript](https://platzi.com/clases/2332-javascript-poo/38619-que-es-un-objeto-en-javascript/)
-Qué es un objeto en JavaScript
 
 [Cómo funciona el JavaScript Engine](https://platzi.com/clases/1642-javascript-profesional/22168-como-funciona-el-javascript-engine/)
 
