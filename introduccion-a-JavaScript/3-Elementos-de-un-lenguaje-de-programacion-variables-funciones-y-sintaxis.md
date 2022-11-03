@@ -30,7 +30,7 @@ Ejecuta lo siguiente en la consola de tu navegador y observa lo que sucede.
 
 ***Tipos de datos***
 
-![example](https://static.platzi.com/media/user_upload/1-07d74822-2339-4e2b-bda9-e38d4403fdb0.jpg>)
+![example](https://static.platzi.com/media/user_upload/1-07d74822-2339-4e2b-bda9-e38d4403fdb0.jpg)
 
 Los tipos de datos es la característica propia que tiene un valor. En JavaScript existen los tipos de datos primitivos y los no primitivos.
 
