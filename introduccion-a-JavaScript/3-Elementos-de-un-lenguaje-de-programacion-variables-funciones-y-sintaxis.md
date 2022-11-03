@@ -83,6 +83,3 @@ Ingresa a la consola del navegador, ejecuta cada línea del siguiente ejemplo y 
 **Arbolito con los tipos de datos de JS**
 
 ![Arbolito de los tipo de datos en JS](https://static.platzi.com/media/user_upload/CU01112E_1-f9d2b6fc-f60c-4bf4-a61d-6bf9df36b268.jpg)
-<br>
-![infografía](https://static.platzi.com/media/user_upload/169c0df8121445d6c2848875d91521c7-f6097583-9431-489d-ba3d-263cfdb5e7e9.jpg)
-<br>
