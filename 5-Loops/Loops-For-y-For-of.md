@@ -48,19 +48,6 @@ La estructura es la siguiente:
 
 Esto se leería como: “Para (for) la variable num que inicia en 1 (num = 1) mientras sea menor o igual que 10 (num <= 10) en pasos de 1 (num++) ejecuta una o varias instrucciones (console.log)”.
 
-Mira la siguiente tabla que muestra cómo cambia la variable num en cada ciclo.
----------------------------------------------------------------------
-
-| # Ciclo | num | num <= 10 | num ++ |<br>
-| ------- | --- | --------- | ------ |<br>
-| 1.º | 1 | true | 2 |<br>
-| 2.º | 2 | true | 3 |<br>
-| ... | ... | ... | ... |<br>
-| 10.º | 10 | true | 11 |<br>
-| 11.º | 11 | false | termina el bucle|<br>
----------------------------------------------------------------------
-
-
 **Cómo recorrer arrays con el ciclo for**
 
 En el anterior ejemplo aprendiste a generar números del 1 al 10, utilicemos la misma lógica para recorrer un *array*.
