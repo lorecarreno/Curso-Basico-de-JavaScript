@@ -215,14 +215,14 @@ Realicemos otro cambio, utilicemos el objeto contexto *this* para hacer referenc
 
 ¡Funcionó! Ahora creemos otro objeto.
 
->``var otroAuto = {`` <br>
->`` // ...`` <br>
->`` detalle: function () { ``<br>
->`` console.log(`Auto ${this.modelo} del ${this.año}.`)`` <br>
->`` },`` <br>
->``}`` <br>
-> <br>
->``otroAuto.detalle() //'Auto Corolla del 2020.'`` <br>
+``var otroAuto = {`` <br>
+`` // ...`` <br>
+`` detalle: function () { ``<br>
+`` console.log(`Auto ${this.modelo} del ${this.año}.`)`` <br>
+`` },`` <br>
+``}`` <br>
+`` `` <br>
+``otroAuto.detalle() //'Auto Corolla del 2020.'`` <br>
 
 ¡Volvió a funcionar! Ahora podremos crear varios objetos sin cambiar una y otra vez la referencia al objeto this. En el objeto miAuto, this es igual a miAuto; mientras que en el objeto otroAuto, this es igual a otroAuto. Por eso podemos acceder a los atributos y métodos, independientemente del objeto creado.
 
