@@ -10,7 +10,7 @@ Para crear una función constructora, debemos definir los parámetros correspond
 
 Ten en cuenta que los parámetros de la función son diferentes a los atributos del objeto 😄.
 
-``function Auto(brand, model, year)``{ <br>
+``function Auto(brand, model, year){`` <br>
 ``    this.marca = brand`` <br>
 ``    this.modelo = model`` <br>
 ``    this.año = year`` <br>
