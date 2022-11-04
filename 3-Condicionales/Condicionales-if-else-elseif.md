@@ -49,24 +49,25 @@ Por ejemplo, un cliente solicita un descuento según el número de artículos qu
 
 El operador ternario consiste en evaluar si una expresión es verdadera o falsa. Parecido a un condicional, pero en una línea de código. Esto sirve para evaluar una condición de manera rápida. La estructura que sigue es la siguiente y se lee como: "La condición es verdadera (?), si es así ejecuta el “Bloque verdadero”, caso contrario (:), ejecuta el “Bloque falso”.
 
-condicion ? Bloque verdadero : Bloque falso
+>condicion ? Bloque verdadero : Bloque falso
+
 Por ejemplo, guardemos en una variable un mensaje si un número es par o impar.
 
 >function esPar(numero){ <br>
 >    return numero % 2 === 0 ? "Es par" : "No es par" <br>
 >} <br>
-
+> <br>
 >esPar(2) // "Es par" <br>
 >esPar(3) // "No es par" <br> 
 
 -----------------------------------------------------------------
 **Ejercicio de condicionales**
 
-Crea el juego de piedra, papel o tijera. Te dejo una pequeña ayuda para este reto:
+*Crea el juego de piedra, papel o tijera. Te dejo una pequeña ayuda para este reto:*
 
-Genera las variables correspondientes
-Produce los condicionales que comparen tu resultado con el de la máquina u otra persona.
-Encapsula los condicionales en una función que reciba las variables, compararlas y retornar un valor.
+1. Genera las variables correspondientes
+2. Produce los condicionales que comparen tu resultado con el de la máquina u otra persona.
+3. Encapsula los condicionales en una función que reciba las variables, compararlas y retornar un valor.
 
 
 -------------------------------------------------------------------
