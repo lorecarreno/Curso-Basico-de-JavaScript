@@ -219,7 +219,7 @@ Realicemos otro cambio, utilicemos el objeto contexto *this* para hacer referenc
 > // ... <br>
 > detalle: function () { <br>
 > console.log(`Auto ${this.modelo} del ${this.año}.`) <br>
-> }, <br>
+>' },' <br>
 >} <br>
 > <br>
 >otroAuto.detalle() //'Auto Corolla del 2020.' <br>
